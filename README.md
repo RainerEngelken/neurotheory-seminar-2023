@@ -19,7 +19,7 @@ Please register via Courseworks, the course is also open to external guests
 
 ### Learning systems
 * Feb 15 	*Expectation Maximization* (Ji Xia)
-* Feb 15	*Reinforcement learning I* (Kaushik Lakshminarasimhan)
+* Feb 22	*Reinforcement learning I* (Kaushik Lakshminarasimhan)
 * Mar 01	*Reinforcement learning II* (Kaushik Lakshminarasimhan)
 * Mar 08  *no session* (Cosyne)
 * Mar 15 	*no session* (spring break)
@@ -30,7 +30,7 @@ Please register via Courseworks, the course is also open to external guests
 * Apr 05 *Oscillations and Wilson-Cowan model* (Patricia Cooney)
 * Apr 12 *Mean-field theory and perturbative approaches* (Agostina Palmigiano)
 * Apr 19 *Low-rank neural networks I* (Manuel Beiran)
-* Apr 26 *Low-rank neural networks I* (Manuel Beiran)
+* Apr 26 *Low-rank neural networks II* (Manuel Beiran)
 * May 03 *Single-neuron computations* (Salomon Muller)
 
 * 10 May	*Student presentations*
